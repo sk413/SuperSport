@@ -1,0 +1,222 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* #Media Queries
+================================================== */
+/* Smaller than standard 1200px (devices and browsers) */
+@media only screen and (max-width: 1200px) {
+.container {
+	width:90%;
+	margin:0 auto;
+}
+}
+@media only screen and (max-width: 1280px) {
+header{
+	padding:1%;
+	}
+
+
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 600px) and (max-width : 1024px) {
+/* Styles */
+
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+	
+	
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+#main{
+	  width:100%;
+	  padding:0;
+	  margin:0 auto;
+	  padding-top:56px;
+	}
+header nav{
+    width: 70%;
+}
+.ace-responsive-menu > li > a {
+    padding: 5px 1px 5px 10px;
+    font-size: 11px;
+}
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+#main {
+    margin:0 auto;
+    padding:56px 0 0;
+    width:100%;
+}
+header {
+    background:#fff none repeat scroll 0 0;
+    left:0;
+    position:fixed;
+    transition:height 0.3s ease 0s;
+    width:100%;
+    z-index:999;
+}
+header .logo{
+	width:15%;
+	}
+header.smaller .logo{
+	width:12%;
+	}
+
+
+}
+
+@media only screen and (min-device-width : 480px) and (max-device-width : 767px) and (orientation : landscape) {
+#main{
+	padding:0px;
+	}
+header{
+	padding:1% 0 2% 0!important;
+	}
+header.smaller {
+    height:70px!important;
+	}
+header .logo {
+    float:left!important;
+    width:23%!important;
+	position:absolute;
+	left:20px;
+	}
+header nav {
+    display:inline-block;
+    float:right;
+    padding:2% 2% 0 0!important;    
+    width:100%;
+	}
+
+}
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	width:100%;
+	padding:15px;
+}
+header {
+	width:100%;
+	height:auto;
+	position:relative;
+}
+header.smaller {
+	top:0;
+	height:220px;
+	background-color:#fff;
+}
+header .logo {
+    float:left!important;
+    width:26%!important;
+	position:absolute;
+	left:20px;
+	top:10px!important;
+	}
+header nav {
+    display:inline-block;
+    float:right;
+    padding:4% 0 0 0;
+    width:100%;
+	}
+header.smaller .logo {
+	width:60%;
+	text-align:center;
+	margin:0 auto;
+	float:none;
+}
+#main{
+	padding:0px;
+	}
+
+
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape){
+
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+th, td {
+    font-size: 12px;
+}
+p{
+	text-align: justify;
+}
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	width:100%;
+	padding:15px;
+}
+.fa_menuarrow{
+	display:none!important;
+	}
+header {
+width: 100%;
+    height: auto;
+    position: fixed; 
+  
+}
+header.smaller {
+	top:0;
+	height:110px;
+	background-color:#fff;
+}
+header .logo {
+float: left!important;
+    width: 37%!important;
+    position: absolute;
+    left: 20px;
+    top: 14px!important;
+    z-index: 999;
+	}
+header nav {
+    display:inline-block;
+    float:right;
+    padding:2% 2% 0 0;
+    width:100%;
+    margin-top: 0%;
+	}
+header.smaller .logo {
+	width:60%;
+	text-align:center;
+	margin:0 auto;
+	float:none;
+}
+
+#main {
+    padding-top: 54px!important;
+}
+.ace-responsive-menu > li > a {
+    padding: 5px 0 0 12px!important;
+}
+.ace-responsive-menu > li {
+    padding: 8px 0!important;
+}
+.gallery_page .row_box{
+	padding: 0;
+}
+.heading{
+	font-size: 17px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
