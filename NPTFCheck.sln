@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPTFCheck", "NPTFCheck\NPTFCheck.csproj", "{54FF6074-9E84-4D19-BF5A-D6CB23948358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FF6074-9E84-4D19-BF5A-D6CB23948358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FF6074-9E84-4D19-BF5A-D6CB23948358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FF6074-9E84-4D19-BF5A-D6CB23948358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FF6074-9E84-4D19-BF5A-D6CB23948358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F134B7-02E3-4B96-B6EA-7A5B501E48C5}
+	EndGlobalSection
+EndGlobal

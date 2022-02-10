@@ -1,0 +1,108 @@
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe.config
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.pdb
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Datatype.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.Data.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Drawing.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Model.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Rkit.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Scripting.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Akit5.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Ionic.Zip.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.MsgLib.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Mono.Cecil.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Plugins.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Utilities.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Internal.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Geometry.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Serialization.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Topology.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Toolkit.dll
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Catalogs.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Datatype.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.Data.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Drawing.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Model.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Shapes.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Plugins.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Utilities.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Internal.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Geometry.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Topology.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Algorithms.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Toolkit.xml
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csprojAssemblyReference.cache
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.Form1.resources
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.Properties.Resources.resources
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csproj.GenerateResource.cache
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csproj.CopyComplete
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.exe
+D:\Vhinoth\21.0\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.pdb
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe.config
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.pdb
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Datatype.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.Data.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Drawing.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Model.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Rkit.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Scripting.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Akit5.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Ionic.Zip.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.MsgLib.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Mono.Cecil.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Plugins.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Utilities.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Internal.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Geometry.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Serialization.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Topology.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Toolkit.dll
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Catalogs.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Datatype.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Dialog.Data.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Drawing.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Model.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Shapes.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Structures.Plugins.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Utilities.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Internal.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Geometry.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Topology.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.Common.Geometry.Algorithms.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\Tekla.BIM.Toolkit.xml
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csprojAssemblyReference.cache
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.Form1.resources
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.Properties.Resources.resources
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csproj.GenerateResource.cache
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.csproj.CopyComplete
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.exe
+D:\Git Completed\NPTFCheck\NPTFCheck\obj\Debug\NPTFCheck.pdb

@@ -1,0 +1,11 @@
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe.config
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.pdb
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.csproj.AssemblyReference.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.csproj.SuggestedBindingRedirects.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.Form1.resources
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.Properties.Resources.resources
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.csproj.GenerateResource.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.csproj.CoreCompileInputs.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.exe
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\AnyCPU\Debug\NPTFCheck\NPTFCheck.pdb

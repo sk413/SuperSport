@@ -1,0 +1,20 @@
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe.config
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe
+D:\Git Completed\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.pdb
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csprojAssemblyReference.cache
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.Form1.resources
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.Properties.Resources.resources
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csproj.GenerateResource.cache
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.exe
+D:\Git Completed\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.pdb
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe.config
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.exe
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\NPTFCheck\bin\Debug\NPTFCheck.pdb
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csproj.AssemblyReference.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csproj.SuggestedBindingRedirects.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.Form1.resources
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.Properties.Resources.resources
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csproj.GenerateResource.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.csproj.CoreCompileInputs.cache
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.exe
+D:\Alvin\Esskay\modify\Utility\NPTFCheck\ObjDir\2019\NPTFCheck\NPTFCheck.pdb
