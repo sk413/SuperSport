@@ -1,0 +1,2 @@
+skApplicationName_oshatool,skApplicationVersion_2019
+skApplicationName_PartAndTool,skApplicationVersion_2020
